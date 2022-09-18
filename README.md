@@ -2,6 +2,8 @@
 
 Render category buttons dynamically and filter menu items.
 
+[Live Demo](https://christy313.github.io/react15-project05)
+
 ![](./public/images/05-menu.gif)
 
 ## Note
